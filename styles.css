@@ -1,0 +1,452 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+    background-color: #FDFCFA;
+}
+
+.container {
+    text-align: center;
+    height: 884px;
+}
+
+#logo {
+    margin-top: 38px;
+    width: 740px;
+    height: 696px;
+}
+
+#text {
+    top: 634px;
+    position: absolute;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 258px;
+}
+
+.container2 {
+    margin-top: 10px;
+    background-image: url(Leonardo_Kino_XL_Ocean_3.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 1045px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 100px;
+    color: white;
+}
+
+#ocean {
+    font-size: 40px;
+}
+
+#dc1 {
+    margin-top: 1px;
+    font-size: 20px;
+}
+
+#img2 {
+    border-radius: 50px;
+    width: 1000px;
+    height: 800px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: 1s;
+}
+
+#img2:hover {
+    transform: scale(1.3);
+    z-index: 2;
+}
+
+.container3 {
+    margin-top: 10px;
+    background-image: url(Leonardo_Kino_XL_Vanilla_1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 1045px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 100px;
+    color: white;
+}
+
+#Vanilla {
+    font-size: 40px;
+}
+
+#dc2 {
+    margin-top: 1px;
+    font-size: 20px;
+}
+
+#img3 {
+    border-radius: 50px;
+    width: 1000px;
+    height: 800px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: 1s;
+}
+
+#img3:hover {
+    transform: scale(1.3);
+    z-index: 2;
+}
+
+.container4 {
+    margin-top: 10px;
+    background-image: url(Leonardo_Kino_XL_Lemon_3.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 1045px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 100px;
+    color: white;
+}
+
+#lemon {
+    font-size: 40px;
+}
+
+#dc3 {
+    margin-top: 1px;
+    font-size: 20px;
+}
+#img4 {
+    border-radius: 50px;
+    width: 1000px;
+    height: 800px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: 1s;
+}
+
+#img4:hover {
+    transform: scale(1.3);
+    z-index: 2;
+}
+
+.container5 {
+    margin-top: 10px;
+    background-image: url(Leonardo_Kino_XL_Lavender_0.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 1045px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 100px;
+    color: white;
+}
+
+#lava {
+    font-size: 40px;
+}
+
+#dc4 {
+    margin-top: 1px;
+    font-size: 20px;
+}
+#img5 {
+    border-radius: 50px;
+    width: 1000px;
+    height: 800px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: 1s;
+}
+
+#img5:hover {
+    transform: scale(1.3);
+    z-index: 2;
+}
+
+.container6 {
+    margin-top: 10px;
+    background-image: url(Leonardo_Kino_XL_Strawberry_2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 1045px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 100px;
+    color: white;
+}
+
+#straw {
+    font-size: 40px;
+}    
+
+#dc5 {
+    margin-top: 1px;
+    font-size: 20px;
+}
+
+#img6 {
+    border-radius: 50px;
+    width: 1000px;
+    height: 800px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: 1s;
+}
+
+#img6:hover {
+    transform: scale(1.3);
+    z-index: 2;
+}
+
+.container7 {
+    margin-top: 10px;
+    background-image: url(Leonardo_Kino_XL_Bamboo_0.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 1045px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 100px;
+    color: white;
+}
+
+#fresh {
+    font-size: 40px;
+}
+
+#dc6 {
+    margin-top: 1px;
+    font-size: 20px;
+}
+#img7 {
+    border-radius: 50px;
+    width: 1000px;
+    height: 800px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: 1s;
+}
+
+#img7:hover {
+    transform: scale(1.3);
+    z-index: 2;
+}
+
+.container8 {
+    background-color: #D2CBBB;
+    height: 300px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 50px;
+    color: black;
+    padding-left: 257px;
+}
+
+#fb {
+    width: 48px;
+    height: 48px;
+}
+
+@media (max-width: 768px) {
+
+    body {
+        height: 6987.06px;
+    }
+
+    .container {
+        height: 884px;
+        width: 500px;   
+    }
+
+    #logo {
+        margin-left: 125px;
+        margin-top: 200px;
+    }
+
+    #text {
+        font-size: 30px;
+        font-family: 'Times New Roman', Times, serif;;
+        top: 750px;
+        margin-left: 1px;
+        white-space: nowrap;
+    }
+    
+    .container2 {
+        margin-top: 300px;
+        width: 1000px;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    
+    #ocean {
+        font-size: 40px;
+    }
+    
+    #dc1 {
+        margin-top: 1px;
+        font-size: 20px;
+        white-space: nowrap;
+    }
+    
+    #img2 {
+        border-radius: 50px;
+        width: 740px;
+        height: 696px;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+
+    .container3 {
+        margin-top: 25px;
+        width: 1000px;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    
+    #Vanilla {
+        font-size: 40px;
+    }
+    
+    #dc2 {
+        margin-top: 1px;
+        font-size: 20px;
+        white-space: nowrap;
+    }
+    
+    #img3 {
+        border-radius: 50px;
+        width: 740px;
+        height: 696px;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+
+    .container4 {
+        margin-top: 25px;
+        width: 1000px;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    
+    #lemon {
+        font-size: 40px;
+    }
+    
+    #dc3 {
+        margin-top: 1px;
+        font-size: 20px;
+        white-space: nowrap;
+    }
+    #img4 {
+        border-radius: 50px;
+        width: 740px;
+        height: 696px;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+
+    .container5 {
+        margin-top: 25px;
+        width: 1000px;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    
+    #lava {
+        font-size: 40px;
+    }
+    
+    #dc4 {
+        margin-top: 1px;
+        font-size: 20px;
+        white-space: nowrap;
+    }
+    #img5 {
+        border-radius: 50px;
+        width: 740px;
+        height: 696px;
+
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+
+    .container6 {
+        margin-top: 25px;
+        width: 1000px;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    
+    #straw {
+        font-size: 40px;
+    }    
+    
+    #dc5 {
+        margin-top: 1px;
+        font-size: 20px;
+        white-space: nowrap;
+    }
+    
+    #img6 {
+        border-radius: 50px;
+        width: 740px;
+        height: 696px;
+
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+    
+    .container7 {
+        margin-top: 25px;
+        width: 1000px;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    
+    #fresh {
+        font-size: 40px;
+        white-space: nowrap;
+    }
+    
+    #dc6 {
+        margin-top: 1px;
+        font-size: 20px;
+        white-space: nowrap;
+
+    }
+    #img7 {
+        border-radius: 50px;
+        width: 740px;
+        height: 696px;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+
+    .container8 {
+        background-color: #D2CBBB;
+        height: 300px;
+        font-family: 'Times New Roman', Times, serif;
+        padding-top: 100px;
+        padding-left: 127px;
+        white-space: nowrap;
+        width: 875px;
+    }
+    
+    #fb {
+        width: 48px;
+        height: 48px;
+    }
+
+}
